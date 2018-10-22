@@ -1,0 +1,26 @@
+Create different objects for each shape.
+-Rectangle 
+-Triangle 
+-Circle
+-Rhombus.
+Ask the user for the desired shape.
+Ask the user for the dimensions of their shape.
+-Width and Length for rectangle/square
+-If the shape is a circle radius
+-If the shape is a rhombus length of the 2 diagonals and side length
+-If the shape is a triangle base length and height and diagonal lengths
+Calculate area and perimeter of the shape with given dimensions. 
+-Circle
+  -pi*radius**2
+  -2**pi*radius
+-Rectangle 
+  -Length*width
+  -2*length+2*width
+-Triangle
+  -Base length*height/2
+  -Diagonal length+diagonal length+base length
+-Rhombus
+  -Diagonal1*diagonal2/2
+  -4*side length
+Output the shape, dimensions and the area and perimeter of the shape.
+Each output screen will include the shape and the corresponding dimensions along with their perimeter and area
