@@ -1,0 +1,4 @@
+This code will need to calculate the area and perimeter of basic 2d shapes.
+Such as square, rectangle, triangle, circle, rhombus.
+The code will take measurements and desired shape from user.
+The code will output perimeter and area.
